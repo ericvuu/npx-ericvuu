@@ -1,0 +1,23 @@
+{
+  "name": "ericvuu",
+  "version": "1.4.0",
+  "description": "Eric Vuu (@ericvuu)'s business card",
+  "main": "./bin/card.js",
+  "bin": {
+    "ericvuu": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericvuu/npx-ericvuu.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Eric Vuu",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^3.0.0"
+  }
+}
