@@ -8,7 +8,7 @@ To see my business card execute the following:
 npx ericvuu
 ```
 
-![Eric Vuu's Business Card](business-card.PNG)
+![Eric Vuu's Business Card](business-card.png)
 
 # Credit
 
