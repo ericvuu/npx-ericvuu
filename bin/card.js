@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white("Eric Vuu /"),
   handle: chalk.cyan("ericvuu"),
-  work: chalk.white("Web Developer at Fireside | Part of FiscalNote"),
+  work: chalk.white("Associate Software Engineer at Fireside | Part of FiscalNote"),
   github: chalk.cyan("github.com/ericvuu"),
   linkedin: chalk.cyan("linkedin.com/in/ericvuu/"),
   web: chalk.cyan("https://ericvuu.dev/"),
